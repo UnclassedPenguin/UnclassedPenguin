@@ -6,7 +6,7 @@ I'd really like to advance my skills in programming and start contributing to op
  
 Currently I'm learning Go, Ruby, JavaScript as well as working on my HTML and CSS. 
  
-Thanks for checking out my GitHub. I also have a [blog](https://blog.unclassed.ca). 
+Thanks for checking out my GitHub. I also have a [blog](https://unclassed.ca). 
  
 Happy Coding :)
 
